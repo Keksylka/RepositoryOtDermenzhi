@@ -15,7 +15,7 @@
 [Текст](https://github.com/Keksylka/RepositoryOtDermenzhi/blob/master/Plantuml) и рисунок диаграммы классов:
 ![none](https://github.com/Keksylka/RepositoryOtDermenzhi/blob/master/plant.png)
 
-[Текст](https://github.com/Keksylka/RepositoryOtDermenzhi/blob/master/Plantuml2) и рисунок диаграммы классов:
+[Текст](https://github.com/Keksylka/RepositoryOtDermenzhi/blob/master/Plantuml2) и рисунок диаграммы диаграммы прецедентов:
 ![none](https://github.com/Keksylka/RepositoryOtDermenzhi/blob/master/Plant2.png)
 
 
