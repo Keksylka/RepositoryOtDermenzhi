@@ -12,6 +12,9 @@
 
 * Создание диаграммы классов и диаграммы прецедентов в PLANTUML (программное средство автоматической генерации UML-диаграмм)
 [Текст](https://github.com/Keksylka/RepositoryOtDermenzhi/blob/master/Plantuml) и рисунок диаграммы классов:
+![none](https://github.com/Keksylka/RepositoryOtDermenzhi/blob/master/plant.png)
+
+
 
 ## Лабораторная 2
 
