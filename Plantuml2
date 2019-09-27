@@ -10,8 +10,8 @@ skinparam usecase {
 	BorderColor Black
 }
 left to right direction
-actor P0 as "HR-менеджер"
-actor M0 as "Нанять с помощью сайтов и знаний о найме персонала"
+actor P0 as "Человек"
+actor M0 as "Вспомогательные ресурсы"
 actor P as "HR-менеджер"
 actor M as "Нанять с помощью сайтов и знаний о найме персонала"
 usecase A as "Нанять нового программиста"
