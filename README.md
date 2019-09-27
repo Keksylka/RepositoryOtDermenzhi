@@ -7,7 +7,7 @@
  * IDEF0-диаграмма в развернутом виде:
 ![none](https://github.com/Keksylka/RepositoryOtDermenzhi/blob/master/%D0%9B%D0%B0%D0%B1%D0%B01.jpg)
 
-![IDEF0-диаграмма в формате .rsf] (https://github.com/Keksylka/RepositoryOtDermenzhi/blob/master/Lab1.rsf)
+[IDEF0-диаграмма в формате .rsf](https://github.com/Keksylka/RepositoryOtDermenzhi/blob/master/Lab1.rsf)
 
 ## Лабораторная 2
 
