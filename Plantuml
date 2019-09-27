@@ -1,0 +1,12 @@
+@startuml
+skinparam class {
+	BackgroundColor White
+	ArrowColor Black
+	BorderColor Black
+}
+class "HR-менеджер" as HR-менеджер {
+ С помощью сайтов и знаний о найме персонала
+Квалифицированный специалист Нанять нового программиста (Найти из источников выложенными резюме, Когда будет потребноость в новом программисте)
+}
+hide circle
+@enduml
