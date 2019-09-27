@@ -9,6 +9,10 @@
 
 [IDEF0-диаграмма в формате .rsf](https://github.com/Keksylka/RepositoryOtDermenzhi/blob/master/Lab1.rsf)
 
+
+* Создание диаграммы классов и диаграммы прецедентов в PLANTUML (программное средство автоматической генерации UML-диаграмм)
+[Текст](https://github.com/Keksylka/RepositoryOtDermenzhi/blob/master/Plantuml) и рисунок диаграммы классов:
+
 ## Лабораторная 2
 
 ## Лабораторная 3
