@@ -14,7 +14,7 @@
 [Текст](https://github.com/Keksylka/RepositoryOtDermenzhi/blob/master/Plantuml) и рисунок диаграммы классов:
 ![none](https://github.com/Keksylka/RepositoryOtDermenzhi/blob/master/plant.png)
 
-
+[Текст](https://github.com/Keksylka/RepositoryOtDermenzhi/blob/master/Plant2.png) и рисунок диаграммы классов:
 
 ## Лабораторная 2
 
