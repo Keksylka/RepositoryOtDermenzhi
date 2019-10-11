@@ -24,8 +24,8 @@
 * Диаграмма IDEF0 - декомпозиция А0 в А1-А2-А3 по принципу Plan-Do-Check
 ![none](https://github.com/Keksylka/RepositoryOtDermenzhi/blob/master/Лаба2ДиаграммаPDC.png)
 
-
-
+* Диаграмма DFD - декомпозиция А2 "Нанять нового программиста"
+![none](https://github.com/Keksylka/RepositoryOtDermenzhi/blob/master/Лаба2ДиаграммаDFD.png)
 
 
 ## Лабораторная 3
