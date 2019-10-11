@@ -22,7 +22,7 @@
 ## Лабораторная 2
 
 * Диаграмма IDEF0 - декомпозиция А0 в А1-А2-А3 по принципу Plan-Do-Check
-![none]()
+![none](https://github.com/Keksylka/RepositoryOtDermenzhi/blob/master/Лаба2ДиаграммаPDC.png)
 
 
 
