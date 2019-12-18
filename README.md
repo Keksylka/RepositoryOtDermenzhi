@@ -63,24 +63,57 @@ A4 Трудоустройство (относится к внешней сред
 * <b>Точка зрения </b> - HR-менеджер
 
 
+[IDEF0-диаграмма в формате .rsf](https://github.com/Keksylka/RepositoryOtDermenzhi/blob/master/Kursach.rsf)
+ * IDEF0-диаграмма в развернутом виде:
+![none](https://github.com/Keksylka/RepositoryOtDermenzhi/blob/master/01_A0.png)
+
+* Диаграмма IDEF0 - декомпозиция А0 в А1, А2, А3 и А4
+![none](https://github.com/Keksylka/RepositoryOtDermenzhi/blob/master/02_A0.png)
+
+* Диаграмма IDEF0 - декомпозиция А1 в А11, А12 и А13
+![none](https://github.com/Keksylka/RepositoryOtDermenzhi/blob/master/03_A1.png)
+
+* Диаграмма IDEF0 - декомпозиция А2 в А21, А22, А23 и А24
+![none](https://github.com/Keksylka/RepositoryOtDermenzhi/blob/master/06_A2.png)
+
+* Диаграмма IDEF0 - декомпозиция А3 в А31, А32, А33, А34 и А35
+![none](https://github.com/Keksylka/RepositoryOtDermenzhi/blob/master/10_A3.png)
+
+* Диаграмма IDEF0 - декомпозиция А4 в А41, А42, А43 и А44
+![none](https://github.com/Keksylka/RepositoryOtDermenzhi/blob/master/13_A4.png)
+
+
 ## Лабораторная 5
 
 1. Определение основных средств автоматизации:
 
-* Определение конфигурации технических средств (рабочие станции, серверы, другое оборудование) - Рабочие станции (ПК), сервер.
-* Определение конфигурации программных средств (одноуровневые, многоуровневые, встроенные, распределенные) - для анализа заявок корпоративная СУБД (архитектура клиент-сервер), для работы с заявками servicedesk в форме веб-сайта.
-* Определение допустимых видов хранилищ и их размещения - ПО на сервере, память на рабочих станциях.
-
-
-
-* Определение конфигурации технических средств (рабочие станции, серверы, другое оборудование) - Рабочие станции (ПК), сервер.
+* Определение конфигурации технических средств (рабочие станции, серверы, другое оборудование) - Рабочие станции (ПК).
 * Определение конфигурации программных средств (одноуровневые, многоуровневые, встроенные, распределенные) - Многоуровневая.
 * Определение допустимых видов хранилищ и их размещения - ПО на сервере, память на рабочих станциях.
 
 
-
-
 2. Декомпозиция всех автоматизируемых блоков до DFD
 
+DFD для блока А11:
+![none](https://github.com/Keksylka/RepositoryOtDermenzhi/blob/master/04_A11.png)
+
+DFD для блока А13:
+![none](https://github.com/Keksylka/RepositoryOtDermenzhi/blob/master/05_A13.png)
+
+DFD для блока А21:
+![none](https://github.com/Keksylka/RepositoryOtDermenzhi/blob/master/07_A21.png)
+
+DFD для блока А23:
+![none](https://github.com/Keksylka/RepositoryOtDermenzhi/blob/master/08_A23.png)
+
+DFD для блока А24:
+![none](https://github.com/Keksylka/RepositoryOtDermenzhi/blob/master/09_A24.png)
+
 DFD для блока А31:
-![none]()
+![none](https://github.com/Keksylka/RepositoryOtDermenzhi/blob/master/11_A31.png)
+
+DFD для блока А35:
+![none](https://github.com/Keksylka/RepositoryOtDermenzhi/blob/master/12_A35.png)
+
+3. Определение типа каждого блока в DFD (экранная форма, печатная форма, модуль обработки)
+* Определение типа каждого хранилища в DFD (файл, таблица БД, структура в памяти, внешний сервис) - БД.
