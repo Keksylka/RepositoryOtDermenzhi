@@ -121,6 +121,7 @@ DFD для блока А35:
 
 ## Лабораторная 6
 
+* Завершение идентификации всех потоков
 ERD для всех потоков: [код](https://github.com/Keksylka/RepositoryOtDermenzhi/blob/master/%D0%9F%D0%BE%D1%82%D0%BE%D0%BA%D0%B8ERD)
 ![none](https://github.com/Keksylka/RepositoryOtDermenzhi/blob/master/%D0%9F%D0%BE%D1%82%D0%BE%D0%BA%D0%B8.png)
 
