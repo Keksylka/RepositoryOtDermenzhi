@@ -87,9 +87,9 @@ A4 Трудоустройство (относится к внешней сред
 
 1. Определение основных средств автоматизации:
 
-* Определение конфигурации технических средств (рабочие станции, серверы, другое оборудование) - Рабочие станции (ПК).
+* Определение конфигурации технических средств (рабочие станции, серверы, другое оборудование) - ПК клиента, веб-сервер, сервер приложений, сервер БД.
 * Определение конфигурации программных средств (одноуровневые, многоуровневые, встроенные, распределенные) - Многоуровневая.
-* Определение допустимых видов хранилищ и их размещения - ПО на сервере, память на рабочих станциях.
+* Определение допустимых видов хранилищ и их размещения - ПО на сервере, база данных на сервере.
 
 
 2. Декомпозиция всех автоматизируемых блоков до DFD
@@ -129,3 +129,10 @@ ERD для всех потоков: [код](https://github.com/Keksylka/Reposit
 ERD для всех потоков: [код](https://github.com/Keksylka/RepositoryOtDermenzhi/blob/master/%D0%A0%D0%BE%D0%BB%D0%B8)
 ![none](https://github.com/Keksylka/RepositoryOtDermenzhi/blob/master/%D0%A0%D0%BE%D0%BB%D0%B8.png)
 
+* Завершение идентификации всех экранных форм:
+ERD для всех потоков: [код](https://github.com/Keksylka/RepositoryOtDermenzhi/blob/master/Windows)
+![none](https://github.com/Keksylka/RepositoryOtDermenzhi/blob/master/Windows.png)
+
+* Завершение идентификации всех модулей обработки:
+ERD для всех потоков: [код](https://github.com/Keksylka/RepositoryOtDermenzhi/blob/master/Modules)
+![none](https://github.com/Keksylka/RepositoryOtDermenzhi/blob/master/Modules.png)
