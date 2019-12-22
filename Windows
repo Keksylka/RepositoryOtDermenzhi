@@ -1,0 +1,44 @@
+@startuml
+skinparam class {
+	BackgroundColor White
+	ArrowColor Black
+	BorderColor Black
+}
+class Entity as "Модули"
+
+class Window as "Экранная форма"
+
+class Otpravka as "Форма\nотправленной\nзаявки"
+class Postup as "Форма\nпоступившей\nзаявки"
+class Obrabotka as "Форма\nобработки\nзаявки\nруководителем"
+class Start as "Форма\nначала\nработы с\nзаявкой"
+class Oformlenie as "Форма\nоформления\nзаявки"
+class Futur as "Форма\nзаявки\nдля\nбудущего\nпрофиля\nвакансии"
+class Profil as "Форма\nприветственной\nстроки\nпрофиля\nвакансии"
+class Information as "Форма\nинформации\nо вакансии"
+class Uslovia as "Форма\nусловий,\nобязанностей\nи ЗП работы"
+class Puncti as "Форма\nвсех\nпунктов\nвместе"
+class Internet as "Форма\nвакансии\nна\nинтернет-\nресурсах"
+class BD as "Форма\nнужной\nдля базы\nданных\nинформации"
+
+
+Entity <|-- Window 
+
+Window <|-- Otpravka 
+Window <|-- Postup 
+Window <|-- Obrabotka 
+Window <|-- Start 
+Window <|-- Oformlenie 
+Window <|-- Futur 
+Window <|-- Profil 
+Window <|-- Information 
+Window <|-- Uslovia 
+Window <|-- Puncti 
+Window <|-- Internet 
+Window <|-- BD
+
+
+hide members
+hide circle
+hide methods
+@enduml
