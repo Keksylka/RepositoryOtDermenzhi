@@ -1,0 +1,31 @@
+@startuml
+skinparam class {
+	BackgroundColor White
+	ArrowColor Black
+	BorderColor Black
+}
+class Entity as "Модули"
+
+class Module as "Модуль обработки"
+
+class Obrabotka as "Модуль\nобратки\nзаявки"
+class Marketing as "Модуль обработки\nинтернет-маркетинга\nвакансии (по\nпредпочтению работодателя)"
+class Otkliki as "Модуль обработки\nоткликов кандидатов,\nформа обратной\nсвязи с кандидатами"
+class Obrabotkliki as "Модуль\nобработки\nоткликов"
+class Resume as "Модуль обработки\nрезюме откликнувшихся\nкандидатов"
+class Newkandidats as "Модуль обработки\nновых кандидатов\nв базе"
+
+
+Entity <|-- Module
+
+Module <|-- Obrabotka
+Module <|-- Marketing 
+Module <|-- Otkliki 
+Module <|-- Obrabotkliki 
+Module <|-- Resume 
+Module <|-- Newkandidats 
+
+hide members
+hide circle
+hide methods
+@enduml
