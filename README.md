@@ -125,4 +125,7 @@ DFD для блока А35:
 ERD для всех потоков: [код](https://github.com/Keksylka/RepositoryOtDermenzhi/blob/master/%D0%9F%D0%BE%D1%82%D0%BE%D0%BA%D0%B8ERD)
 ![none](https://github.com/Keksylka/RepositoryOtDermenzhi/blob/master/%D0%9F%D0%BE%D1%82%D0%BE%D0%BA%D0%B8.png)
 
+* Завершение идентификации всех ролей:
+ERD для всех потоков: [код](https://github.com/Keksylka/RepositoryOtDermenzhi/blob/master/%D0%A0%D0%BE%D0%BB%D0%B8)
+![none](https://github.com/Keksylka/RepositoryOtDermenzhi/blob/master/%D0%A0%D0%BE%D0%BB%D0%B8.png)
 
