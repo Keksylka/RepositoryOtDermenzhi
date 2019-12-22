@@ -136,3 +136,6 @@ ERD для всех потоков: [код](https://github.com/Keksylka/Reposit
 * Завершение идентификации всех модулей обработки:
 ERD для всех потоков: [код](https://github.com/Keksylka/RepositoryOtDermenzhi/blob/master/Modules)
 ![none](https://github.com/Keksylka/RepositoryOtDermenzhi/blob/master/Modules.png)
+
+
+# [Отчет по курсовой работе](https://github.com/Keksylka/RepositoryOtDermenzhi/blob/master/%D0%9A%D1%83%D1%80%D1%81%D0%BE%D0%B2%D0%B0%D1%8F.pdf)
